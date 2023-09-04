@@ -1,5 +1,7 @@
 import com.list.carrinhodecompras.CarrinhoDeCompras;
+import com.list.catalogolivros.CatalogoLivros;
 import com.list.listadetarefas.ListaDeTarefas;
+import com.list.ordenacaodepessoas.OrdenacaoPessoas;
 
 import java.math.BigDecimal;
 
@@ -7,10 +9,12 @@ import java.math.BigDecimal;
 // then press Enter. You can now see whitespace characters in your code.
 public class Main {
     public static void main(String[] args) {
-        CarrinhoDeCompras carrinho = new CarrinhoDeCompras();
-        carrinho.adicionarItem("Bala", 0.15, 20);
-        carrinho.adicionarItem("Tomate", 5.0, 2);
-        carrinho.exibirItens();
-        System.out.println(carrinho.calcularValorTotal());
+        OrdenacaoPessoas pessoasOrdenadas = new OrdenacaoPessoas();
+        pessoasOrdenadas.adicionarPessoa("pessoa1", 1, 1.5);
+        pessoasOrdenadas.adicionarPessoa("pessoa5", 3, 1.8);
+        pessoasOrdenadas.adicionarPessoa("pessoa3", 12, 1.3);
+        pessoasOrdenadas.adicionarPessoa("pessoa2", 24, 1);
+        System.out.println(pessoasOrdenadas.ordenarPorAltura());
+        System.out.println(pessoasOrdenadas.ordenarPorIdade());
     }
 }
