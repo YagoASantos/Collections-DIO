@@ -4,13 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f3c4f28-50dc-4a15-ac52-a5c0e7078b1c" name="Changes" comment="First Commit">
-      <change afterPath="$PROJECT_DIR$/src/com/list/catalogolivros/CatalogoLivros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/list/catalogolivros/Livro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/list/ordenacaodepessoas/OrdenacaoPessoas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/list/ordenacaodepessoas/Pessoa.java" afterDir="false" />
+    <list default="true" id="0f3c4f28-50dc-4a15-ac52-a5c0e7078b1c" name="Changes" comment="Resolvendo exercicios">
+      <change afterPath="$PROJECT_DIR$/src/com/set/alunos/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/set/alunos/GerenciadorAlunos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/set/alunos/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/set/contatos/AgendaContatos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/set/contatos/Contato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/set/convidados/ConjuntoConvidados.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/set/convidados/Convidado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/set/convidados/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/set/produtos/CadastroProdutos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/set/produtos/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/set/produtos/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/set/tarefas/ListaTarefas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/set/tarefas/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/set/tarefas/Tarefa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/Arrays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/list/carrinhodecompras/CarrinhoDeCompras.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/list/list/carrinhodecompras/CarrinhoDeCompras.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/list/carrinhodecompras/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/list/list/carrinhodecompras/Item.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/list/catalogolivros/CatalogoLivros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/list/list/catalogolivros/CatalogoLivros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/list/catalogolivros/Livro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/list/list/catalogolivros/Livro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/list/listadetarefas/ListaDeTarefas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/list/list/listadetarefas/ListaDeTarefas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/list/listadetarefas/Tarefa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/list/list/listadetarefas/Tarefa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/list/ordenacaodepessoas/OrdenacaoPessoas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/list/list/ordenacaodepessoas/OrdenacaoPessoas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/list/ordenacaodepessoas/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/list/list/ordenacaodepessoas/Pessoa.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +64,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/aguia/Desktop/Curso DIO/Java/Curso Basico/collections/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.com.set.alunos.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="collections" />
@@ -53,8 +72,64 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.set.alunos.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.set.alunos.Main" />
+      <module name="collections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.set.alunos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.set.convidados.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.set.convidados.Main" />
+      <module name="collections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.set.convidados.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.set.produtos.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.set.produtos.Main" />
+      <module name="collections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.set.produtos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.set.tarefas.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.set.tarefas.Main" />
+      <module name="collections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.set.tarefas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.set.alunos.Main" />
+        <item itemvalue="Application.com.set.produtos.Main" />
+        <item itemvalue="Application.com.set.tarefas.Main" />
+        <item itemvalue="Application.com.set.convidados.Main" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -76,11 +151,20 @@
       <option name="project" value="LOCAL" />
       <updated>1693531838630</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Resolvendo exercicios">
+      <option name="closed" value="true" />
+      <created>1693853274352</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1693853274352</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
+    <MESSAGE value="Resolvendo exercicios" />
+    <option name="LAST_COMMIT_MESSAGE" value="Resolvendo exercicios" />
   </component>
 </project>

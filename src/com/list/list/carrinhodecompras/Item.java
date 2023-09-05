@@ -1,4 +1,4 @@
-package com.list.carrinhodecompras;
+package com.list.list.carrinhodecompras;
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;

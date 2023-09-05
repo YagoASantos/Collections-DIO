@@ -1,4 +1,4 @@
-package com.list.listadetarefas;
+package com.list.list.listadetarefas;
 
 import java.util.ArrayList;
 import java.util.List;

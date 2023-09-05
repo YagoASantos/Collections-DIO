@@ -1,9 +1,4 @@
-import com.list.carrinhodecompras.CarrinhoDeCompras;
-import com.list.catalogolivros.CatalogoLivros;
-import com.list.listadetarefas.ListaDeTarefas;
-import com.list.ordenacaodepessoas.OrdenacaoPessoas;
-
-import java.math.BigDecimal;
+import com.list.list.ordenacaodepessoas.OrdenacaoPessoas;
 
 // Press Shift twice to open the Search Everywhere dialog and type `show whitespaces`,
 // then press Enter. You can now see whitespace characters in your code.

@@ -1,7 +1,6 @@
-package com.list.ordenacaodepessoas;
+package com.list.list.ordenacaodepessoas;
 
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.Collections;
 import java.util.List;
 

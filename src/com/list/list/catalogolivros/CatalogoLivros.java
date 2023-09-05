@@ -1,4 +1,4 @@
-package com.list.catalogolivros;
+package com.list.list.catalogolivros;
 
 import java.util.ArrayList;
 import java.util.List;
